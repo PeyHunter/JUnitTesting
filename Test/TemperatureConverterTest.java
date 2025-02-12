@@ -28,5 +28,5 @@ class TemperatureConverterTest
     {
         assertEquals(50.0, TemperatureConverter.toFahrenheit(10.00));
     }
-    
+
 }
